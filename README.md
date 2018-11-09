@@ -1,5 +1,6 @@
 # Candy-Catch.
 
+If you encounter any problems, you can contact me through the following ways.
 
 iOS App Technical Support
 
